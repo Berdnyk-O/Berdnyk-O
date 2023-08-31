@@ -28,7 +28,7 @@ Worked with:
 
 A small application that creates a stl file of the regular octahedron based on the entered side length 
 
-<p align="center"> <a href="https://github.com/skovalysh/take-home-project](https://github.com/Berdnyk-O/stl"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="200" ></a>
+<p align="center"> <a href="https://github.com/Berdnyk-O/stl"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="200" ></a>
 </p>
 
 # Numbers
