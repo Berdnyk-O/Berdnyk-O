@@ -1,3 +1,5 @@
+<a href="https://pdfhost.io/v/gZL3B5dFQ_CV_Berdnyk_Oleksandr" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:sacha.berdnuk@gmail.com"><img src="https://img.shields.io/badge/Email-Oleksandr-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>
 
 # [fmi virtual guide](https://play.google.com/store/apps/details?id=com.OleksandrBerdnyk.fmivirtualguide) 
