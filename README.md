@@ -28,7 +28,7 @@ Worked with:
 
 # [Stl regular octahedron](https://github.com/Berdnyk-O/stl) 
 
-A small application that creates a stl file of the regular octahedron based on the entered side length 
+A small application that creates an STL file of the regular octahedron based on the entered side length. 
 
 <p align="center"> <a href="https://github.com/Berdnyk-O/stl"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="200" ></a>
 </p>
