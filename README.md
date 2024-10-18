@@ -4,14 +4,29 @@
   <img src="https://img.shields.io/badge/LinkedIn-Oleksandr%20Berdnyk-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
 
-# [ExcelWebAPI](https://github.com/Berdnyk-O/ExcelWebAPI) 
+# [ConversationInsights](https://github.com/Berdnyk-O/ConversationInsights) 
+<p align="center"> 
+  <a href="https://github.com/Berdnyk-O/ConversationInsights"> 
+    <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="200" >
+  </a>
+</p>
+
+This API allows you to analyze audio files, extract key information such as names and locations, categorize conversations into appropriate categories, and determine emotional tone.
+
+* Onion Architecture
+* PostgreSQL Database
+* Minimal API
+* Vosk models for offline audio-to-text conversion
+* VaderSharp2 for determining the emotional tone 
+
+# [Excel](https://github.com/Berdnyk-O/ExcelWebAPI) 
 <p align="center"> 
   <a href="https://github.com/Berdnyk-O/ExcelWebAPI"> 
     <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="200" >
   </a>
 </p>
 
-Web API for Excel, allows you to work with sheets and cells. Supports basic data types: string, integer, float, and basic math operations such as  +, -, /, * and brackets.
+API for Excel, allows you to work with sheets and cells. Supports basic data types: string, integer, float, and basic math operations such as  +, -, /, * and brackets.
 Can be run in the Docker.
 
 # [fmi virtual guide](https://play.google.com/store/apps/details?id=com.OleksandrBerdnyk.fmivirtualguide) 
